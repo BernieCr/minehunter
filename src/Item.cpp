@@ -1,0 +1,31 @@
+// Item.cpp: Implementierung der Klasse CItem.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "stdafx.h"
+#include "Item.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Konstruktion/Destruktion
+//////////////////////////////////////////////////////////////////////
+
+CItem::CItem()
+{
+	type = 0;
+	number = 0;
+	vistype = 0;
+}
+
+CItem::~CItem()
+{
+
+}
+
+
