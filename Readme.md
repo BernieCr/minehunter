@@ -1,6 +1,6 @@
 # MineHunter
 
-> A MineSweeper clone for Windows I wrote in 2002 over the course of only a couple of hours
+> A MineSweeper clone for Windows I wrote in 2002 as a little 1-day project
 
 ![Screenshot](screenshot.png)
 
